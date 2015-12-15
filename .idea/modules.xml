@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DexMaker/DexMaker.iml" filepath="$PROJECT_DIR$/DexMaker/DexMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DexMarker.iml" filepath="$PROJECT_DIR$/DexMarker.iml" />
+    </modules>
+  </component>
+</project>
